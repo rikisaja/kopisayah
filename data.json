@@ -1,0 +1,126 @@
+{
+    "Kopi": [
+        {
+            "nama": "Cappucino",
+            "gambar": "images/produk/product_capuchino.jpg",
+            "size": "200 Ml",
+            "harga": "40.000",
+            "link": "www.tokopedia.com/cappucinoenak"
+        },
+        {
+            "nama": "Espresso",
+            "gambar": "images/produk/product_espresso.jpg",
+            "size": "100 Ml",
+            "harga": "20.000",
+            "link": "www.tokopedia.com/espressojoss"
+        },
+        {
+            "nama": "Kopi Susu",
+            "gambar": "images/produk/product_kopi_susu.jpg",
+            "size": "200 Ml",
+            "harga": "30.000",
+            "link": "www.tokopedia.com/kopi-susu"
+        },
+        {
+            "nama": "Latte",
+            "gambar": "images/produk/product_latte.jpg",
+            "size": "200 Ml",
+            "harga": "30.000",
+            "link": "www.tokopedia.com/kopi-latte"
+        }
+    ],
+    "Teh": [
+        {
+            "nama": "Es Teh Manis",
+            "gambar": "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg",
+            "size": "200 Ml",
+            "harga": "10.000",
+            "link": "www.tokopedia.com/es-teh-manis"
+        },
+        {
+            "nama": "Thai Tea",
+            "foto": "https://dcostseafood.id/wp-content/uploads/2023/03/Thai-Tea.jpg",
+            "size": "200 Ml",
+            "harga": "10.000",
+            "link": "www.tokopedia.com/es-thaitea-manis"
+        }
+    ],
+    "Camilan": [
+        {
+            "nama": "Tempe Mendoan",
+            "gambar": "https://o-cdn-cas.sirclocdn.com/parenting/original_images/Resep_Tempe_Mendoan.jpg",
+            "size": "6 PCS",
+            "harga": "20.000",
+            "link": "www.tokopedia.com/mendoanku"
+        },
+        {
+            "nama": "Pisang Goreng",
+            "gambar": "https://www.blibli.com/friends-backend/wp-content/uploads/2023/03/B300012-Cover-resep-pisang-goreng-1024x683.jpg",
+            "size": "6 pcs",
+            "harga": "20.000",
+            "link": "www.tokopedia.com/mendoanku"
+        }
+    ],
+    "Redmi": [
+        {
+            "nama": "Redmi 13",
+            "gambar": "https://i02.appmifile.com/948_item_id/23/05/2024/66fd83d94fe5ef8f241fe23811951f3a.png",
+            "size": "8/128",
+            "harga": "1.800.000",
+            "link": "www.tokopedia.com/redmi-13"
+        },
+        {
+            "nama": "Redmi 13C",
+            "gambar": "https://i02.appmifile.com/675_item_id/28/11/2023/264300957e1ac394b3414258c1690201.png",
+            "size": "8/128",
+            "harga": "1.400.000",
+            "link": "www.tokopedia.com/redmi-13c"
+        }
+    ],
+    "Poco": [
+        {
+            "nama": "Poco M6",
+            "gambar": "https://i02.appmifile.com/979_item_id/25/06/2024/c42954b5ebae1b7465aaf69ed232bdc5.png",
+            "size": "8/64",
+            "harga": "2.200.000",
+            "link": "www.tokopedia.com/poco-m6"
+        },
+        {
+            "nama": "Poco F6",
+            "gambar": "https://i02.appmifile.com/718_item_id/23/01/2024/8469be9222b37fff66a2f7a1c7176540.png",
+            "size": "8/256",
+            "harga": "4.800.000",
+            "link": "www.tokopedia.com/poco-f6"
+        },
+        {
+            "nama": "Poco PAD",
+            "gambar": "https://i02.appmifile.com/601_item_id/25/06/2024/e6917cd56ab1f2bfec39f4a5d12699bd.png",
+            "size": "8/256",
+            "harga": "4.000.000",
+            "link": "www.tokopedia.com/poco-f6"
+        },
+        {
+            "nama": "Poco X6 5G",
+            "gambar": "https://i02.appmifile.com/738_item_id/25/06/2024/d839a53ddea86d7c546741e9516c9e05.png",
+            "size": "8/256",
+            "harga": "4.000.000",
+            "link": "www.tokopedia.com/poco-f6"
+        }
+    ],
+    "Xiaomi": [
+        {
+            "nama": "Poco M6",
+            "gambar": "https://i02.appmifile.com/979_item_id/25/06/2024/c42954b5ebae1b7465aaf69ed232bdc5.png",
+            "size": "8/64",
+            "harga": "2.200.000",
+            "link": "www.tokopedia.com/poco-m6"
+        },
+        {
+            "nama": "Poco F6",
+            "gambar": "https://i02.appmifile.com/718_item_id/23/01/2024/8469be9222b37fff66a2f7a1c7176540.png",
+            "size": "8/256",
+            "harga": "4.800.000",
+            "link": "www.tokopedia.com/poco-f6"
+        }
+    ]
+}
