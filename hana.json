@@ -1,0 +1,71 @@
+{
+    "Kopi": [
+        {
+            "nama": "Kappucino",
+            "gambar": "images/produk/product_capuchino.jpg",
+            "size": "200 Ml",
+            "harga": "40.000",
+            "link": "www.tokopedia.com/cappucinoenak"
+        },
+        {
+            "nama": "Espresso",
+            "gambar": "images/produk/product_espresso.jpg",
+            "size": "100 Ml",
+            "harga": "20.000",
+            "link": "www.tokopedia.com/espressojoss"
+        },
+        {
+            "nama": "Kopi Susu",
+            "gambar": "images/produk/product_kopi_susu.jpg",
+            "size": "200 Ml",
+            "harga": "30.000",
+            "link": "www.tokopedia.com/kopi-susu"
+        },
+        {
+            "nama": "Latte",
+            "gambar": "images/produk/product_latte.jpg",
+            "size": "200 Ml",
+            "harga": "30.000",
+            "link": "www.tokopedia.com/latte-susu"
+        }
+    ],
+    "Teh": [
+        {
+            "nama": "Es Teh Manis",
+            "gambar": "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg",
+            "size": "200 Ml",
+            "harga": "10.000",
+            "link": "www.tokopedia.com/es-teh-manis"
+        },
+        {
+            "nama": "Es Teh Jumbo",
+            "gambar": "https://sibakuljogja.jogjaprov.go.id/files/ES%20TEH%20JUMBO.jpg",
+            "size": "500 Ml",
+            "harga": "15.000",
+            "link": "www.tokopedia.com/es-teh-jumbokuh"
+        },
+        {
+            "nama": "Es Teh Jumbo",
+            "gambar": "https://sibakuljogja.jogjaprov.go.id/files/ES%20TEH%20JUMBO.jpg",
+            "size": "500 Ml",
+            "harga": "15.000",
+            "link": "www.tokopedia.com/es-teh-jumbokuh"
+        }
+    ],
+    "Snack": [
+        {
+            "nama": "Latiao",
+            "gambar": "https://awsimages.detik.net.id/community/media/visual/2023/04/14/latiao-1.jpeg?w=800",
+            "size": "20 gr",
+            "harga": "10.000",
+            "link": "www.tokopedia.com/Latiaokuh"
+        },
+        {
+            "nama": "Pentol Setan",
+            "gambar": "https://th.bing.com/th/id/R.3b99da7ee695dc348a843d750c26dfb5?rik=pps84z2TMtW6mA&riu=http%3a%2f%2fwww.jajanbeken.com%2fwp-content%2fuploads%2f2020%2f03%2f1585498020529-768x1024.jpg&ehk=H5Jz1XeAV1u6riDZNazkFYV200PY7ZfCmzKlhOF%2fNXw%3d&risl=&pid=ImgRaw&r=0",
+            "size": "300 gr",
+            "harga": "50.000",
+            "link": "www.tokopedia.com/pentol-maknyuss"
+        }
+    ]
+}
